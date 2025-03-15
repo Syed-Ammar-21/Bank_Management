@@ -20,10 +20,10 @@ It provides essential banking features such as deposits, withdrawals, loan appli
 
 ### Open in NetBeans
 
-Open NetBeans IDE.
-Load the project and build it.
-Run the Application.
-Click Run or execute the Main.java file.
+- Open NetBeans IDE.
+- Load the project and build it.
+- Run the Application.
+- Click Run or execute the Main.java file.
 
 ---
 
