@@ -18,6 +18,8 @@ It provides essential banking features such as deposits, withdrawals, loan appli
 - **Programming Language:** Java.  
 - **Frameworks & Tools:** NetBeans, Java Swing (GUI), Object-Oriented Programming (OOP).
 
+---
+
 ### Open in NetBeans
 
 - Open NetBeans IDE.
